@@ -1,6 +1,6 @@
-#GOBHA
+# GOBHA
 
-Gobha is a set of plugins for the static site generator [Metalsmith](http://www.metalsmith.io/).
+Gobha is a set of plugins for the static site generator [Metalsmith](www.metalsmith.io).
 
 ### gobha-wrapper
 Sample Wrapper for the set of plugins
