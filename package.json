@@ -1,0 +1,23 @@
+{
+  "name": "gobha",
+  "version": "1.0.0",
+  "description": "Gobha is a set of plugins for the static site generator Metalsmith.",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daviot/gobha.git"
+  },
+  "keywords": [
+    "Metalsmith",
+    "plugin"
+  ],
+  "author": "daviot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daviot/gobha/issues"
+  },
+  "homepage": "https://github.com/Daviot/gobha#readme"
+}
