@@ -22,6 +22,8 @@ Replace Handlebar partials in the layouts and applys layouts to the files
 
 It's a clone of [metalsmith-layouts](https://github.com/superwolff/metalsmith-layouts)
 
+### [gobha-inliner](https://github.com/Daviot/gobha-inliner)
+Inlines styles and scripts into the current page
 
 ## What means "gobha"?
 **gobha** is the gaelic word for smith
