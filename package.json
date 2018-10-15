@@ -1,6 +1,6 @@
 {
   "name": "gobha",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gobha is a set of plugins for the static site generator Metalsmith.",
   "main": "README.md",
   "scripts": {
